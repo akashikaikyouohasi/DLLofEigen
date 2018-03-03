@@ -31,7 +31,7 @@ VisulaStudio‚É‚ÄƒRƒ“ƒpƒCƒ‹‚·‚·ê‡‚ÍAƒvƒŠƒvƒƒZƒbƒT‚É" EIGENFUNCS_EXPORTS"‚ğİ’
 #else //‚±‚Ìelse‚Íifdef‚É‘Î‚·‚é‚à‚Ì‚¾‚Æl‚¦‚ç‚ê‚éB
 #define EIGEN_FUNCS_API __declspec(dllimport)
 #endif
-	EIGEN_FUNCS_API void InverseMat(int dim, float a[], float ans[]);
+	EIGEN_FUNCS_API void InverseMat(int dim_row, int dim_column, float a[], float ans[]);
 	/*
 	ˆÈ‰º‚Ìˆê•¶‚ÍAƒCƒ“ƒ|[ƒg‚ÆƒGƒNƒXƒ|[ƒg‚És“ª‚ªexport‚©import‚É•Ï‰»‚·‚éB
 	‚±‚ê‚ªADLL‚ÅŠO‚ÉŒ©‚¦‚éŠÖ”‚Æ‚È‚éH
