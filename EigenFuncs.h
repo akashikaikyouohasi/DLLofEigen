@@ -36,6 +36,7 @@ VisulaStudio‚É‚ÄƒRƒ“ƒpƒCƒ‹‚·‚·ê‡‚ÍAƒvƒŠƒvƒƒZƒbƒT‚É" EIGENFUNCS_EXPORTS"‚ğİ’
 	ˆÈ‰º‚Ìˆê•¶‚ÍAƒCƒ“ƒ|[ƒg‚ÆƒGƒNƒXƒ|[ƒg‚És“ª‚ªexport‚©import‚É•Ï‰»‚·‚éB
 	‚±‚ê‚ªADLL‚ÅŠO‚ÉŒ©‚¦‚éŠÖ”‚Æ‚È‚éH
 	*/
+	EIGEN_FUNCS_API void InnerProductMat(int dim_row1, int dim_column1, float mat1[], int dim_row2, int dim_column2, float mat2[], float ans[]);
 	
 
 	
