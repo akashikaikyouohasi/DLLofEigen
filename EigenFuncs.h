@@ -37,6 +37,10 @@ VisulaStudio‚É‚ÄƒRƒ“ƒpƒCƒ‹‚·‚·ê‡‚ÍAƒvƒŠƒvƒƒZƒbƒT‚É" EIGENFUNCS_EXPORTS"‚ðÝ’
 	‚±‚ê‚ªADLL‚ÅŠO‚ÉŒ©‚¦‚éŠÖ”‚Æ‚È‚éH
 	*/
 	
+
+	
+
+
 /*
 ƒL[ƒ[ƒh‚ð’è‹`‚µ‚ÄAŠÔÚ“I‚ÉƒGƒNƒXƒ|[ƒg‚·‚éiHjƒƒŠƒbƒg‚Í TEST_EXPORTS‚Ì’è‹`‚³‚ê‚Ä‚¢‚È‚¢ƒvƒƒWƒFƒNƒg‚Å ‚±‚Ìƒwƒbƒ_[‚ªƒCƒ“ƒNƒ‹[ƒh‚³‚ê‚½‚Æ‚«‚É–¾‚ç‚©‚É‚È‚è‚Ü‚·B 
 ‚»‚Ì‚Æ‚«A_EXPORTƒCƒR[ƒ‹__declspec(dllimport)‚Æ‚È‚èA ŠÖ”‚ÍƒCƒ“ƒ|[ƒg‚³‚ê‚é‚©‚ç‚Å‚·B
